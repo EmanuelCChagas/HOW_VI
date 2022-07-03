@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">HOW VI</string>
+    <string name="app_name_init"> Evento_</string>
+    <string name="app_btn_criar_conta"> Criar Conta</string>
+    <string name="app_name_login"> Entrar </string>
+    <string name="app_login_text_login"> Login </string>
+    <string name="app_login_text_senha"> Senha </string>
+    <string name="app_login_input_email"> example@gmail.com </string>
+    <string name="app_login_input_senha"> senha </string>
+    <string name="app_menu_minha_conta">Minha Conta</string>
+    <string name="app_menu_eventos">Eventos</string>
+    <string name="app_menu_artistas">Artistas</string>
+    <string name="app_menu_bandas">Bandas</string>
+    <string name="app_menu_sair">Sair</string>
+    <string name="app_artistas_btn_adicionar">Adicionar</string>
+    <string name="app_artistas_btn_Novo">Novo</string>
+    <string name="app_artistas_titulo">Artistas</string>
+    <string name="app_adicionar_artistas_btn_salvar">Salvar</string>
+    <string name="app_adicionar_artistas_input_nome">Nome</string>
+    <string name="app_adicionar_artistas_input_funcoes">Funções</string>
+    <string name="app_artistas_nome_padrao"> Artista</string>
+    <string name="app_artistas_funcao_padrao"> Função</string>
+    <string name="app_artistas_imagem_padrao_descricao"> Imagem do Artista</string>
+
+</resources>
