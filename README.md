@@ -1,1 +1,2 @@
 # HOW_VI
+O trabalho a ser desenvolvido trata-se de um sistema gerencial de eventos, onde o objetivo do projeto é elaborar um aplicativo com estrutura básica de CRUD e fazer a documentação do mesmo, sendo desenvolvido utilizando Android Studio e com o BackEnd e Banco de Dados no Firebas, também utilizando a oportunidade para divulgar algumas habilidades e conhecimentos de programação em dispositivos móveis e prototipagem adquiridos pelos colegas da equipe durante o curso.
